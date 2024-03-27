@@ -9,6 +9,6 @@ entries:
     name: charts
     type: application
     urls:
-    - https://github.com/harsh2478/argocd-k8s-wordpress/blob/main/.deploy/charts-0.1.0.tgz
+    - https://harsh2478.github.io/argocd-k8s-wordpress/charts-0.1.0.tgz
     version: 0.1.0
 generated: "2024-03-28T02:48:36.8861876+05:30"
