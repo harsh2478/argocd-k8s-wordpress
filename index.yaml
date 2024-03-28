@@ -1,12 +1,12 @@
 apiVersion: v1
 entries:
-  charts:
+  mysql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-28T12:46:14.2649471+05:30"
+    created: "2024-03-28T13:07:18.9230054+05:30"
     description: A Helm chart for Kubernetes
-    digest: f959e7c70428e98cfb956f4985fb42f728caf1e53b0cd01d762a0a862202dad4
-    name: charts
+    digest: 5cd71ef2e6e4ff6b3b888ded41455dc123adc7aeef90ec614e05b5c48bd3ce49
+    name: mysql
     type: application
     urls:
     - https://harsh2478.github.io/argocd-k8s-wordpress/mysql-0.1.0.tgz
@@ -14,7 +14,7 @@ entries:
   wordpress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-28T12:46:14.2649471+05:30"
+    created: "2024-03-28T13:07:18.9235871+05:30"
     description: A Helm chart for Kubernetes
     digest: 3e9200cbf65a8f72c5e294ec0711dda641288be3c2e0e43325440db2a020daad
     name: wordpress
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://harsh2478.github.io/argocd-k8s-wordpress/wordpress-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-28T12:46:14.2649471+05:30"
+generated: "2024-03-28T13:07:18.9230054+05:30"
