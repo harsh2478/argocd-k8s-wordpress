@@ -9,7 +9,7 @@ entries:
     name: charts
     type: application
     urls:
-    - https://harsh2478.github.io/argocd-k8s-wordpress/charts-0.1.0.tgz
+    - https://harsh2478.github.io/argocd-k8s-wordpress/mysql-0.1.0.tgz
     version: 0.1.0
   wordpress:
   - apiVersion: v2
